@@ -65,7 +65,7 @@ Size:
 
     (512,512,3)
 
-<img src="Data5C.png" />
+<img src="Data5.png" />
     
 You can find the dataset in the following link:
 
