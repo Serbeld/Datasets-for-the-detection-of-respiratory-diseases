@@ -5,6 +5,7 @@ This repository contains the following Datasets for the detection of respiratory
 These repositories were created by:
 
     Sergio Luis Beleño Díaz
+    Date: 2020-04-27
 
 ## Dataset-4C
 
@@ -20,7 +21,7 @@ The classes are:
 
 You can find the dataset in the following link:
 
-    https://github.com/Serbeld/Dataset-4C
+https://github.com/Serbeld/Dataset-4C
     
 ## Dataset 4C-D
 
@@ -35,7 +36,7 @@ The classes are:
     
 You can find the dataset in the following link:
 
-    https://github.com/Serbeld/Dataset-4C-D
+https://github.com/Serbeld/Dataset-4C-D
     
 ## Dataset 5C
 
@@ -51,4 +52,4 @@ The classes are:
     
 You can find the dataset in the following link:
 
-    https://github.com/Serbeld/Dataset5C
+https://github.com/Serbeld/Dataset5C
