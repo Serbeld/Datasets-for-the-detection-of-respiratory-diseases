@@ -18,6 +18,11 @@ The classes are:
     Pneumonia Bact: 99
     COVID-19: 99
     
+Size:
+
+    (512,512,3)
+
+<img src="Data4C.png" />
 
 You can find the dataset in the following link:
 
@@ -34,6 +39,12 @@ The classes are:
     Pneumonia Bact: 1000
     COVID-19: 99
     
+Size:
+
+    (512,512,3)
+
+<img src="Data4C.png" />
+    
 You can find the dataset in the following link:
 
 https://github.com/Serbeld/Dataset-4C-D
@@ -49,6 +60,12 @@ The classes are:
     Cardiomegaly: 1340 images
     Other respiratory disease: 1340 images
     Pleural effusion: 1340 images
+    
+Size:
+
+    (512,512,3)
+
+<img src="Data5C.png" />
     
 You can find the dataset in the following link:
 
