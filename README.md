@@ -22,7 +22,7 @@ Size:
 
     (512,512,3)
 
-<img src="Data4C.png" />
+<img src="Data4C/índice.png" />
 
 You can find the dataset in the following link:
 
@@ -43,7 +43,7 @@ Size:
 
     (512,512,3)
 
-<img src="Data4C.png" />
+<img src="Data4C/índice.png" />
     
 You can find the dataset in the following link:
 
@@ -65,7 +65,7 @@ Size:
 
     (512,512,3)
 
-<img src="Data5.png" />
+<img src="Data5C/Image.png" />
     
 You can find the dataset in the following link:
 
@@ -88,7 +88,7 @@ The classes are:
 
     (512,512,3)
 
-<img src="Data6C.png" />
+<img src="Data6C/Data6C.png" />
 
 You can find the dataset in the following link:
 
